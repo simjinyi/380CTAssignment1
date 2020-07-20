@@ -1,0 +1,39 @@
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.exe
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.deps.json
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.json
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.dev.json
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csprojAssemblyReference.cache
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfoInputs.cache
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfo.cs
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csproj.CoreCompileInputs.cache
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.genruntimeconfig.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.exe
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.deps.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.dev.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csprojAssemblyReference.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfoInputs.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfo.cs
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csproj.CoreCompileInputs.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.genruntimeconfig.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.exe
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.deps.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.runtimeconfig.dev.json
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\bin\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csprojAssemblyReference.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfoInputs.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.AssemblyInfo.cs
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.csproj.CoreCompileInputs.cache
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.dll
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.pdb
+C:\Users\jinyi\Desktop\380CT - Assignment 1\Part 2, Part 3\Source Codes\Clique\Clique\obj\Debug\netcoreapp3.1\Clique.genruntimeconfig.cache
