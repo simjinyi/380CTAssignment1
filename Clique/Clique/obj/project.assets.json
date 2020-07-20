@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jinyi\\Desktop\\380CT - Assignment 1\\Part 2, Part 3\\Source Codes\\Clique\\Clique\\Clique.csproj",
+      "projectUniqueName": "C:\\Users\\jinyi\\Desktop\\380CTAssignment1\\Clique\\Clique\\Clique.csproj",
       "projectName": "Clique",
-      "projectPath": "C:\\Users\\jinyi\\Desktop\\380CT - Assignment 1\\Part 2, Part 3\\Source Codes\\Clique\\Clique\\Clique.csproj",
+      "projectPath": "C:\\Users\\jinyi\\Desktop\\380CTAssignment1\\Clique\\Clique\\Clique.csproj",
       "packagesPath": "C:\\Users\\jinyi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jinyi\\Desktop\\380CT - Assignment 1\\Part 2, Part 3\\Source Codes\\Clique\\Clique\\obj\\",
+      "outputPath": "C:\\Users\\jinyi\\Desktop\\380CTAssignment1\\Clique\\Clique\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jinyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
